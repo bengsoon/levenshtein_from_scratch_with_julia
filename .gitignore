@@ -1,0 +1,2 @@
+python examples.ipynb
+*.ipynb_checkpoints/**
